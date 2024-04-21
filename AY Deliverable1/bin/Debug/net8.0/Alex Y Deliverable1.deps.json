@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Alex Y Deliverable1/1.0.0": {
+        "runtime": {
+          "Alex Y Deliverable1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alex Y Deliverable1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

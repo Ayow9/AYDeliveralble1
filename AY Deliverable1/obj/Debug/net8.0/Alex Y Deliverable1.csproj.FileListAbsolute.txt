@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\Alex Y Deliverable1\bin\Debug\net8.0\Alex Y Deliverable1.exe
+C:\Users\alexa\source\repos\Alex Y Deliverable1\bin\Debug\net8.0\Alex Y Deliverable1.deps.json
+C:\Users\alexa\source\repos\Alex Y Deliverable1\bin\Debug\net8.0\Alex Y Deliverable1.runtimeconfig.json
+C:\Users\alexa\source\repos\Alex Y Deliverable1\bin\Debug\net8.0\Alex Y Deliverable1.dll
+C:\Users\alexa\source\repos\Alex Y Deliverable1\bin\Debug\net8.0\Alex Y Deliverable1.pdb
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\Alex Y Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\Alex Y Deliverable1.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\Alex Y Deliverable1.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\Alex Y Deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\Alex Y Deliverable1.dll
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\refint\Alex Y Deliverable1.dll
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\Alex Y Deliverable1.pdb
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\Alex Y Deliverable1.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Alex Y Deliverable1\obj\Debug\net8.0\ref\Alex Y Deliverable1.dll
